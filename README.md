@@ -1,4 +1,4 @@
-# 🧠 Brain Tumor MRI Classification — Group 11
+# 🧠 Brain Tumor MRI Classification — University of Waterloo Machine Learning Project
 
 > **Machine Learning 2026** | Tolga Acan · Amber Chen · Bikramjit Garcha · Noel Gelineau · Grace Flaman · Will Sutherland
 > *April 13, 2026*
